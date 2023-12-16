@@ -157,7 +157,7 @@ Currently only the [Steam](https://store.steampowered.com/app/275850/No_Mans_Sky
  
 ## Requirement 
 - Make sure you have No Man’s Sky installed.
-- Download the latest [release] of DNA
+- Download the latest [release](https://github.com/IzzyTheDreamingFox/FoxTech-DNA/releases/tag/v0.1.0-alpha) of DNA
 - Unzip it to a location of your choosing.
 - Run the exe file.
 - You’ll be greeted by a short sequence to help you guide through the setup of your preferred platform.
