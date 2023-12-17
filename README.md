@@ -157,8 +157,7 @@ Currently only the [Steam](https://store.steampowered.com/app/275850/No_Mans_Sky
  
 ## Requirement 
 - Make sure you have No Man’s Sky installed.
-- Download the latest [release](https://github.com/IzzyTheDreamingFox/FoxTech-DNA/releases/tag/v0.1.0-alpha) of DNA
-- Unzip it to a location of your choosing.
+- Download the latest [release](https://github.com/IzzyTheDreamingFox/FoxTech-DNA/releases) of DNA 
 - Run the exe file.
 - You’ll be greeted by a short sequence to help you guide through the setup of your preferred platform.
 - Once that’s over, you're ready to go!
@@ -170,7 +169,7 @@ This free-to-use application (and it will stay that way) is licenced under the c
 
  
 # Contact & Support
-If you have any questions or suggestions you can contact me on the discord server: [discord](https://discord.gg/ZpCANm4dVg) 
+If you have any questions or suggestions you can contact me on the discord server: [discord](https://discord.gg/fk2BWT7hAd) 
  
 # Author:
 IzzyTheDreamingFox
