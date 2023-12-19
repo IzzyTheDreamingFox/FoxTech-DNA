@@ -1,5 +1,5 @@
 <h1 align="center">  
-    <img src="images/intro-logo.png" alt="Logo" > 
+    <img width="558px" height="500px" src="images/intro-logo.png" alt="Logo" > 
     <div align="center"> Is it in your DNA to collect ships? </div>
 </h1>
 
@@ -29,7 +29,8 @@ ${\LARGE\textsf{\color{#f11616}D}\normalsize\textsf{\color{#e6edf3}reamingFox’
 ${\LARGE\textsf{\color{#f11616}N}\normalsize\textsf{\color{#e6edf3}o Man’s Sky}}$ 
 ${\LARGE\textsf{\color{#f11616}A}\normalsize\textsf{\color{#e6edf3}pplication}}$ 
 ${\LARGE\textsf{\color{#e6edf3})}}$ 
-is a tool for the game **No Man’s Sky** with which you can easily catalogue ships, multitools, freighters, frigates and pets with the option to save them on your system and transfer them across your save files. As a reward for your cataloguing efforts you’ll be able to interact with a trading card generated with the information you provided.  It also comes with a full inventory system to manage, charge and quick-sort all your items along with the option to transfer those across saves. <br>
+is a tool for the game **No Man’s Sky** with which you can easily catalogue ships, multitools, freighters, frigates and pets with the option to save them on your system and transfer them across your save files. As a reward for your cataloguing efforts you’ll be able to interact with a trading card generated with the information you provided.<br>
+It also comes with a full inventory system to manage, charge and quick-sort all your items along with the option to transfer those across saves. <br>
 But that’s not all. The feature list keeps growing as the development continues.
 
 
@@ -173,6 +174,15 @@ Currently only the [Steam](https://store.steampowered.com/app/275850/No_Mans_Sky
 (While the app tries to find the folder automatically, it can, in the case of a custom setup, not find the folders. If this happens you’ll have to set these yourself in the provided form.)
 - Once that’s over, you're ready to go!
 
+## Usage
+The best time to use DNA is before or after your play session. <br>
+If you wish to sort your inventory, or transfer ships and do other things, while the game is running please take the following steps to make sure your changes will be saved. <br>
+- While in game, save (for example using a save-beacon or entering/exiting a ship) and pause the game (esc-button).
+- Switch to the application and reload your save game you wish to edit.
+- Make the changes you wish to make and save those changes.
+- Go back to the game and reload the most recent save. <br>
+
+If you followed the steps correctly, you should now be playing on the edited save.
  
 # Licence 
 This free-to-use application (and it will stay that way) is licenced under the copyleft GNU General Public Licence.
