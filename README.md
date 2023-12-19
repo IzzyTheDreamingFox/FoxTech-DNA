@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> DNA is currently in a pre-release state. Many additional features are yet to be implemented in this alpha version and, although tested, bugs will still be present. If you encounter any problems, or have ideas for additional features, please let me know!
+
 <h1 align="center">  
     <img width="558px" height="500px" src="images/intro-logo.png" alt="Logo" > 
     <div align="center"> Is it in your DNA to collect ships? </div>
@@ -176,6 +179,10 @@ Currently only the [Steam](https://store.steampowered.com/app/275850/No_Mans_Sky
 - Once that’s over, you're ready to go!
 
 ## Usage
+
+> [!IMPORTANT]
+> DNA features an automatic backup system that triggers before any edit is made. Remember that this tool is still early in development and it’s advisable to make your own backups just in case.
+
 The best time to use DNA is before or after your play session. <br>
 If you wish to sort your inventory, or transfer ships and do other things, while the game is running please take the following steps to make sure your changes will be saved. <br>
 - While in game, save (for example using a save-beacon or entering/exiting a ship) and pause the game (esc-button).
