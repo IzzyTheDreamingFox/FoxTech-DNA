@@ -7,9 +7,10 @@
 <details open="open">
 <summary>Table of Contents</summary>
 
-- [Introduction ](#introduction) 
+- [Introduction](#introduction) 
 - [Quick Feature Overview](#quick-feature-overview)
 - [Planned Feature Overview](#planned-feature-overview) 
+- [More Information](#more-information) 
 - [Screenshots](#screenshots) 
 - [Getting started](#getting-started)
   - [Compatibility](#compatibility)
@@ -28,56 +29,58 @@ ${\LARGE\textsf{\color{#f11616}D}\normalsize\textsf{\color{#e6edf3}reamingFox’
 ${\LARGE\textsf{\color{#f11616}N}\normalsize\textsf{\color{#e6edf3}o Man’s Sky}}$ 
 ${\LARGE\textsf{\color{#f11616}A}\normalsize\textsf{\color{#e6edf3}pplication}}$ 
 ${\LARGE\textsf{\color{#e6edf3})}}$ 
-is a save-editor, of sorts, for the game **No Man’s Sky**. It’s a fan-made extension to the game itself meant to be used alongside it. <br>
-DNA is focused on both style and function, adding features that the game lacks such as: 
-- automatic inventory sorting
-- automatic charging of technologies
-- changing settlement perks
-- changing settlement production
-- cataloguing ships / multitools / freighters / frigates / pets and more.
+is a tool for the game **No Man’s Sky** with which you can easily catalogue ships, multitools, freighters, frigates and pets with the option to save them on your system and transfer them across your save files. As a reward for your cataloguing efforts you’ll be able to interact with a trading card generated with the information you provided.  It also comes with a full inventory system to manage, charge and quick-sort all your items along with the option to transfer those across saves. <br>
+But that’s not all. The feature list keeps growing as the development continues.
 
-You can do all these things, but for a cost.<br>
-You’ll have to transfer units/nanites/quicksilver to the in-app bank account to pay for these services that are provided by made-up companies (to add some flavour) and you’ll have to use items such as Salvage Data and Factory Override Units to make certain changes. <br>
-All this for the sake of further immersion into the game, to fix the issue of money creep, use items you’ll normally never use and as an incentive to play the game even more.
-  
+
+<details  >
+<summary> ${\textsf{\color{#f11616}Why does the DNA look the way that it does?}}$  </summary>
+In an attempt to make the DNA feel more like an extension to the game itself then a separate program, I focused on getting the aesthetic of the application as close as possible to the actual game. With some tweaks and new things to allow the application to do what it has to do.<br>
+Since every major race in the game apparently has a tablet, I’d like to imagine that this is one of the apps they have running on it. Something that connects them to various mega-corporations that offer their services for a price. Something to check their bank account with, check the stock market (which is in the game but players can’t interact with it), etc.
+
+</details> 
+
+
 <details  >
 <summary> ${\textsf{\color{#f11616}Why did you make this project?}}$  </summary>
 
-I like No Man’s Sky, but once you reach the endgame the game becomes rather stale and certain issues start to annoy me. 
-- Inventory management becomes tedious.
-- I have more Salvage Data and money that I know what to do with. 
-- I can’t collect more than 12 ships. 
-- I can only own 1 freighter. 
-- Only a couple of multitools and pets. 
-- Even Frigates have a cap.
+I like No Man’s Sky but once I reached the endgame the game became stale and some issues started to annoy me. <br>
+Since I’m a chaotic person, my inventories become a mess and sorting them by hand is tedious. <br>
+It also pained me to scrap good looking and upgraded ships just because I wanted a new one but ran out of slots. <br>
+The same happened with multitools, pets, etc… I also wanted to mix it up by owning multiple freighters which the game simply doesn’t allow. Even frigates have a cap to them. With nothing to spend the endless money on the game grinded to a halt. <br>
+At this point I was getting familiar with an editor by [goatfungus](https://github.com/goatfungus/NMSSaveEditor) and later the [NomNom](https://github.com/zencq/NomNom/tree/master) editor which I used to decrease my currencies and export my ships/tools as JSONs.<br>
+While this worked, the temptation of the ability to cheat in anything I wanted was a bit strong.<br>
 
-So, with no way to spend the endless money, the game (for me) grinds to a halt. <br>
-I used save-editors before such as  [NomNom](https://github.com/zencq/NomNom/tree/master) and the editor by [goatfungus](https://github.com/goatfungus/NMSSaveEditor) to export my ships to text files and decrease my money just to have something to do. But even this became rather tedious to do.<br>
-And thus DNA was born.<br>
-An easy–to-use app, that looks visually pleasing, filled with things for me to extend the lifespan of my enjoyment of the game.
-Or at least, that is the idea.<br>
-
-And now after months of more coding than playing the actual game... <br>
-DNA has reached the point where it is ready for a release. <br>
-Maybe, through my efforts, I’ll drive further engagement to No Man’s Sky.<br>
-And with the help of others, refine the app even further. <br>
+Then the idea of DNA was born. 
+<br>
+The idea of an easy-to-use application, that looks visually pleasing, filled with features for me to extend the lifespan of my enjoyment of the game.<br>
+An application where I could, without a hassle, catalogue and save anything I own to free up slots in the game. Something that allowed me to sort my inventories automatically and transfer items/currency from one save to another.<br>
+And allowed me to make certain ‘cheaty’ changes for a set cost, replacing the feeling of having cheated with the feeling of having worked for it.<br> 
 </details> 
+
+<details  >
+<summary> ${\textsf{\color{#f11616}Why did you release this project?}}$  </summary>
+I’ve been working on my own on this for a long while now and it has come to the point where I think others could get some use out of it as well. I implemented all the features I personally use and have some issues as to how to take the project further.<br>
+I’m hoping that with user feedback I can start implementing features that, while I have no use for them, others might. And, together with others, we could take DNA and refine it into something more.
+</details> 
+
+   
  
 # Quick Feature Overview
 - **Platform selection**
-- **Manage saves across platforms**
+  - Manage saves across platforms
 - **Backups**
   - Automatic backups every time a save-edit is made.
   - Recover saves by restoring a previous backup.
 - **Ship management**
-	- Catalogue the ships you own.
+  - Catalogue the ships you own.
     - Add all kinds of information such as portal location, system information, etc… 
   - Transfer ships to the database for later use, freeing up slots for you to use.
     - All information is saved. Such as inventory and technologies in the case of ships
   - Transfer ships between saves and different platforms.
-	- View your collection in the form of interactive trading cards.
-  - Customise your card with the in-app options
-  - Export your trading card as an image. (It wouldn’t be a trading card if you couldn’t.)
+  - View your collection in the form of interactive trading cards.
+    - Customise your card with the in-app options
+    - Export your trading card as an image. (It wouldn’t be a trading card if you couldn’t.)
 - **Pet / Freighter / Frigate / Multitool management**
   - You can do the same things as with managing the ships!
   - Catalogue everything
@@ -95,8 +98,8 @@ And with the help of others, refine the app even further. <br>
 - **Base management**
 	- Change the order in which your bases show up in the teleporter screen
 	- View the amount of objects you have placed
-	- Across all bases and for each base individually
-	- View a list of all the objects within a base.
+	  - Across all bases and for each base individually
+	  - View a list of all the objects within a base.
 - **Settlement management**
 	- General overview of your entire settlement.
 	- Change the next judgement of a settlement.
@@ -118,17 +121,22 @@ And with the help of others, refine the app even further. <br>
 
  
 # Planned Feature Overview
-Just to list a few:
+Here’s a list of some of the features I noted down. These might change depending on the feedback I receive.
 - **Service costs for storing properties in the hangars.**
-  - These will be deducted weekly from you the in-app bank-account and adjusted based on your standing with various guilds. 
-  - Possible to switch this off in the settings.
+  - These will be deducted weekly from you the in-app bank-account and adjusted based on your standing with various guilds. <br>
+   (Possible to switch this off in the settings.)
 - **Item mall featuring companies selling in-game items at various prices or in exchange for other items.**
-- **Reward system for playing the game when DNA is minimised. (requires minimal resources)**
+  - The option to buy locked expedition items with quicksilver
+- **Reward system for playing the game**
 	- Awards will include currencies, items and new card-styles.
-  - Further expansion of the bank to include things such as loans.
+- **Further expansion of the bank to include things such as loans.**
 - **Option to create your own card textures and use them in DNA** (if there are enough requests for this)
-- **Performance**
+- **Reward system for building bases.**
+- **Fight for better performance**
  
+# More information.
+Check out the [wiki](https://github.com/IzzyTheDreamingFox/FoxTech-DNA/wiki#foxtech-dna) for more information about some of the features
+
 # Screenshots 
   <img src="images/dashboard.PNG" alt="dashboard.PNG"  >  
   <img src="images/inventories.PNG" alt="inventories.PNG"  >  
@@ -144,22 +152,25 @@ Just to list a few:
   <img src="images/bank.PNG" alt="bank.PNG"  >  
   <img src="images/stocks.PNG" alt="stocks.PNG"  >  
   <img src="images/store.PNG" alt="store.PNG"  >  
-  
+ 
+
 # Getting started 
  
 ## Compatibility 
 Development started since [Interceptor 4.20](https://www.nomanssky.com/interceptor-update/) and has been compatible with every update up to the latest [Echoes 4.45](https://www.nomanssky.com/echoes-update/).<br>
 I take great care to ensure the intergrity of the database that holds all the stored properties. Rest assured that this data is safe with each coming new update. <br>
-<sub>(After all, I used DNA myself and I have no plan to lose my own collection)</sub>
+<sub>(After all, I use DNA myself and I have no plan to lose my own collection)</sub>
 <br>
 <br>
 Currently only the [Steam](https://store.steampowered.com/app/275850/No_Mans_Sky/)(Windows) and [GOG](https://www.gog.com/game/no_mans_sky)(Windows) platforms are compatible with DNA since these are the only platforms I own the game on. Thus the only platforms I can thoroughly test the app with.
  
 ## Requirement 
 - Make sure you have No Man’s Sky installed.
-- Download the latest [release](https://github.com/IzzyTheDreamingFox/FoxTech-DNA/releases) of DNA 
+- Download the latest [release](https://github.com/IzzyTheDreamingFox/FoxTech-DNA/releases) of DNA.
+- Unzip the executable somewhere on your pc.
 - Run the exe file.
-- You’ll be greeted by a short sequence to help you guide through the setup of your preferred platform.
+- You’ll be greeted by a short sequence to help you guide through the setup of your preferred platform. <br>
+(While the app tries to find the folder automatically, it can, in the case of a custom setup, not find the folders. If this happens you’ll have to set these yourself in the provided form.)
 - Once that’s over, you're ready to go!
 
  
@@ -169,7 +180,10 @@ This free-to-use application (and it will stay that way) is licenced under the c
 
  
 # Contact & Support
-If you have any questions or suggestions you can contact me on the discord server: [discord](https://discord.gg/fk2BWT7hAd) 
+I have created a [discord](https://discord.gg/fk2BWT7hAd) where you can contact me directly.<br>
+I’m always looking for constructive feedback and new ideas for features to implement or on how to further refine the application.<br>
+So please, let me know!
+
  
 # Author:
 IzzyTheDreamingFox
