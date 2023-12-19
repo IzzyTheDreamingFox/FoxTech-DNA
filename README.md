@@ -15,6 +15,7 @@
 - [Getting started](#getting-started)
   - [Compatibility](#compatibility)
   - [Requirement](#requirement)
+  - [Usage](#usage)
 - [Licence](#licence)
 - [Contact \& Support](#contact--support)
 - [Author](#author)
@@ -140,11 +141,11 @@ Check out the [wiki](https://github.com/IzzyTheDreamingFox/FoxTech-DNA/wiki#foxt
 
 # Screenshots 
   <img src="images/dashboard.PNG" alt="dashboard.PNG"  >  
-  <img src="images/inventories.PNG" alt="inventories.PNG"  >  
   <img src="images/animation-dashboard.gif" alt="animation-dashboard.gif" >   
-  <img src="images/freighters.PNG" alt="freighters.PNG"  >  
+  <img src="images/inventories.PNG" alt="inventories.PNG"  >  
   <img src="images/animation-card.gif" alt="animation-card.guf" >  
   <img src="images/weapons.PNG" alt="weapons.PNG"  >  
+  <img src="images/freighters.PNG" alt="freighters.PNG"  >  
   <img src="images/ship-detail1.PNG" alt="ship-detail1.PNG"  >  
   <img src="images/ship-detail2.PNG" alt="ship-detail2.PNG" >  
   <img src="images/ship-detail3.PNG" alt="ship-detail3.PNG"  >  
@@ -158,7 +159,7 @@ Check out the [wiki](https://github.com/IzzyTheDreamingFox/FoxTech-DNA/wiki#foxt
 # Getting started 
  
 ## Compatibility 
-Development started since [Interceptor 4.20](https://www.nomanssky.com/interceptor-update/) and has been compatible with every update up to the latest [Echoes 4.45](https://www.nomanssky.com/echoes-update/).<br>
+Development started since [Interceptor 4.20](https://www.nomanssky.com/interceptor-update/) and has been compatible with every update up to the latest [Echoes 4.47](https://www.nomanssky.com/echoes-update/).<br>
 I take great care to ensure the intergrity of the database that holds all the stored properties. Rest assured that this data is safe with each coming new update. <br>
 <sub>(After all, I use DNA myself and I have no plan to lose my own collection)</sub>
 <br>
