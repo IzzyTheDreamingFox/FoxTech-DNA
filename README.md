@@ -200,7 +200,9 @@ This free-to-use application (and it will stay that way) is licenced under the c
 # Contact & Support
 I have created a [discord](https://discord.gg/fk2BWT7hAd) where you can contact me directly.<br>
 I’m always looking for constructive feedback and new ideas for features to implement or on how to further refine the application.<br>
-So please, let me know!
+So please, let me know!<br>
+
+For more general help regarding save edits where you can contact me as well as others is the [No Man's Sky - Creative & Sharing Hub](https://discord.gg/QMCTefAD2p).
 
  
 # Author:
