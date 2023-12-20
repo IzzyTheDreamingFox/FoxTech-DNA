@@ -217,3 +217,5 @@ IzzyTheDreamingFox
 - [monkeyman192-MBINCompiler](https://github.com/monkeyman192/MBINCompiler) Without this, DNA probably wouldn't exist. Thanks to this library I was able to extract all the data I needed from the game along with the mapping to deobfuscate save-files.
 
 - Zgarr. The person that had to listen the most to my No Man’s Sky rambling. Without his listening ear I would have probably given up on the whole project.
+
+Special thanks to DHarhan and Mjstral to take the chance and verify the app works on their systems.
