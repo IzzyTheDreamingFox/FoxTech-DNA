@@ -1,7 +1,7 @@
 > [!IMPORTANT]
 > DNA is currently in a pre-release state. Many additional features are yet to be implemented in this alpha version and, although tested, bugs will still be present. If you encounter any problems, or have ideas for additional features, please let me know! <br>
 > <br>
-> DNA has been made with vanilla NMS in mind. Mods that alter the game, suchs as change the maximum amount of products/substances per slot, can cause some issues. Always use the back up system before using the app.
+> DNA has been made with vanilla NMS in mind. Mods that alter the game, such as change the maximum amount of products/substances per slot, can cause some issues with the inventory system. Always use the back up system before using the app.
 
 <h1 align="center">  
     <img width="558px" height="500px" src="images/intro-logo.png" alt="Logo" > 
