@@ -164,7 +164,7 @@ Check out the [wiki](https://github.com/IzzyTheDreamingFox/FoxTech-DNA/wiki#foxt
 # Getting started 
 
 ## Compatibility 
-Development started since [Interceptor 4.20](https://www.nomanssky.com/interceptor-update/) and has been compatible with every update up to the latest [Relics 5.6]( https://www.nomanssky.com/relics-update/).<br>
+Development started since [Interceptor 4.20](https://www.nomanssky.com/interceptor-update/) and has been compatible with every update up to the latest [Voyagers 6.0](https://www.nomanssky.com/voyagers-update/).<br>
 I take great care to ensure the intergrity of the database that holds all the stored properties. Rest assured that this data is safe with each coming new update. <br>
 <sub>(After all, I use DNA myself and I have no plan to lose my own collection)</sub>
 <br>
