@@ -164,7 +164,7 @@ Check out the [wiki](https://github.com/IzzyTheDreamingFox/FoxTech-DNA/wiki#foxt
 # Getting started 
 
 ## Compatibility 
-Development started since [Interceptor 4.20](https://www.nomanssky.com/interceptor-update/) and has been compatible with every update up to the latest [Voyagers 6.0](https://www.nomanssky.com/voyagers-update/).<br>
+Development started since [Interceptor 4.20](https://www.nomanssky.com/interceptor-update/) and has been compatible with every update up to the latest [Remnant 6.2](https://www.nomanssky.com/remnant-update/).<br>
 I take great care to ensure the intergrity of the database that holds all the stored properties. Rest assured that this data is safe with each coming new update. <br>
 <sub>(After all, I use DNA myself and I have no plan to lose my own collection)</sub>
 <br>
@@ -195,16 +195,43 @@ If you wish to sort your inventory, or transfer ships and do other things, while
 If you followed the steps correctly, you should now be playing on the edited save.
  
 # Licence 
-This free-to-use application (and it will stay that way) is licenced under the copyleft GNU General Public Licence.
+This free-to-use application is licenced under the PolyForm Noncommercial License 1.0.0.
 [MORE INFO](LICENSE) 
 
+<details  >
+<summary> ${\textsf{\color{#43a29e}Why PolyForm Noncommercial?}}$</summary>
+
+A few key points of the GPL conflicted with the state of the project.<br>
+<br>
+- The project is closed source until either it has reached a stable state or I'm unable to work on it further.<br>
+<br>
+- The project must remain free (no-cost).<br>
+<br>
+The former is due to personal reasons that I have mentioned in the discussion on the FoxTech discord.<br>
+GPL requires the project source to be open at any time during development and is therefore not compatible with it currently.<br>
+<br>
+The later is the most important one to me and is a complete misunderstanding on my part about the word 'free'.<br>
+GPL guarantees the free (as in freedom) use of the code as one sees fit. This includes the freedom to use the application commercially.<br>
+This conflicts with my view that the project must remain free (as in 'no-cost') especially due to the way a user interacts with the program and the way that the application looks.<br>
+Also, mods and editors already walk a fine line on the NMS EULA and I prefer not to be the one to break that by at least ensuring that this repo (or any future offshoots) can't include any transactions within the application.<br>
+<br>
+After bringing this up on Discord, I've decided for the 'PolyForm Noncommercial License 1.0.0.'.<br>
+This disallows the commercialisation of the application and allows for it being closed source while still enabling releasing the source code at a later date.<br>
+<br>
+This still allows you to decompile the project, make changes, and recompile it. <br>(I'm looking at the Linux users specifically)<br>
+You are absolutely free to do so and to share your changes with others.<br>
+Just don't charge people for the changed application to keep the app free-to-use.<br>
+<br>
+If you'd like to know more the finer details you can ping me, or read the discussion around it, on the [FoxTech Discord](https://discord.gg/fk2BWT7hAd).<br>
+<br>
+</details> 
  
 # Contact & Support
 I have created a [discord](https://discord.gg/fk2BWT7hAd) where you can contact me directly.<br>
 I’m always looking for constructive feedback and new ideas for features to implement or on how to further refine the application.<br>
 So please, let me know!<br>
 
-For more general help regarding save edits where you can contact me as well as others is the [No Man's Sky - Creative & Sharing Hub](https://discord.gg/QMCTefAD2p).
+For more general help regarding save edits (where you can contact me as well as others) is the [No Man's Sky - Creative & Sharing Hub](https://discord.gg/QMCTefAD2p).
 
  
 # Author:
