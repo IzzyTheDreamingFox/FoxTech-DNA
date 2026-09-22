@@ -164,7 +164,7 @@ Check out the [wiki](https://github.com/IzzyTheDreamingFox/FoxTech-DNA/wiki#foxt
 # Getting started 
 
 ## Compatibility 
-Development started since [Interceptor 4.20](https://www.nomanssky.com/interceptor-update/) and has been compatible with every update up to the latest [Remnant 6.2](https://www.nomanssky.com/remnant-update/).<br>
+Development started since [Interceptor 4.20](https://www.nomanssky.com/interceptor-update/) and has been compatible with every update up to the latest [COSMOS](https://www.nomanssky.com/cosmos-update/).<br>
 I take great care to ensure the intergrity of the database that holds all the stored properties. Rest assured that this data is safe with each coming new update. <br>
 <sub>(After all, I use DNA myself and I have no plan to lose my own collection)</sub>
 <br>
@@ -248,5 +248,7 @@ IzzyTheDreamingFox
 - [monkeyman192-MBINCompiler](https://github.com/monkeyman192/MBINCompiler) Without this, DNA probably wouldn't exist. Thanks to this library I was able to extract all the data I needed from the game along with the mapping to deobfuscate save-files.
 
 - Zgarr. The person that had to listen the most to my No Man’s Sky rambling. Without his listening ear I would have probably given up on the whole project.
+
+- Technocrate. A, by now long time, user of DNA that has helped me immensely by providing many large saves to test and experiment on since the early versions of the application.
 
 Special thanks to DHarhan and Mjstral to take the chance and verify the app works on their systems.
